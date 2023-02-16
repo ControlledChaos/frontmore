@@ -14,3 +14,11 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: frontmore
 Tags:
  */
+
+/**
+ * This theme enqueues a minified stylesheet compiled from SASS (.scss) files.
+ *
+ * This stylesheet only contains the above theme header that is necessary for theme activation.
+ *
+ * DO NOT delete this stylesheet!
+ */
